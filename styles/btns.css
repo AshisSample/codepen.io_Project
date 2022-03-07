@@ -1,0 +1,37 @@
+.btn{
+    color: white;
+    background-color: #202020;
+    border: 1px solid #202020;
+    outline: none;
+    font-size: 1em;
+    padding: 10px 15px;
+    border-radius: 2px;
+    margin: 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+.btn i{
+    color: #12bd2e;
+}
+
+.Signbtns{
+    color: black;
+    background-color: #45b858;
+    border: 1px solid #45b858;
+    outline: none;
+    font-size: 2em;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 10px;
+    font-weight: 500;
+}
+.Learnbtns{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    outline: none;
+    font-size: 2em;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 10px;
+}

@@ -1,0 +1,64 @@
+.login-wrapper{
+    background-color: black;
+    margin: -15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.login-wrapper>.top-logo-img {
+    background-color: black;
+    width: auto;
+    height: 100%;
+}
+.login-wrapper>.top-logo-img img{
+    height:100% ;
+    width: 250px;
+    margin: 15px;
+}
+.login-wrapper>.center-col>.exp-text{
+    color: yellow;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    margin-top: 30px;
+    margin-left: -480px;
+}
+.login-wrapper>.center-col>.nav-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-left: -500px;
+    font-size: x-large;
+    margin-top: -30px;
+
+}
+.login-wrapper>.center-col>.nav-wrapper>.fake-link{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    width: 100px;
+    text-align: center;
+    font-size: 1.1em;
+
+}
+.login-wrapper>.center-col>.nav-wrapper>.dropdown{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    width: 100px;
+    text-align: center;
+    margin-left: 30px;
+}
+.login-wrapper>.right-col{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+    font-size: x-large;
+}
+.search-icon{
+    color: #5a5858;
+    font-size: 40px;
+    margin-top: 15px;
+    font-weight: 700;
+    margin-left: 5px;
+    margin-right: 5px;
+}
